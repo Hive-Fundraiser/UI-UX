@@ -1,4 +1,5 @@
-![Cover](https://github.com/Hive-Fundraiser/UI-UX/assets/31126364/d9295006-0ab2-4c42-9361-7a8a6a23c2f8)
+
+![Cover](https://github.com/Hive-Fundraiser/UI-UX/assets/31126364/6818aff3-d2ca-44a1-a09a-f10e5e34b209)
 
 # 🐝 Hive 🐝
 Welcome to Hive, a user-friendly platform! Hive is designed to make the process of finding and purchasing or renting a home as easy as possible. This README will provide an overview of the features and specifications of the Hive design.
